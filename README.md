@@ -2,7 +2,7 @@
 Checkout this link for live preview: https://falakdesai.github.io/text-utils-react/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-There is no need to read anything given below. Just enjoy the demo app link given in the fitst line ;)
+There is no need to read anything given below. Just enjoy the demo app link given in the first line above ;)
 
 ## Available Scripts
 
